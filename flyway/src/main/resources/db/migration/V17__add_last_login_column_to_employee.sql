@@ -1,0 +1,1 @@
+ALTER TABLE employees ADD COLUMN last_login TIMESTAMP NULL;

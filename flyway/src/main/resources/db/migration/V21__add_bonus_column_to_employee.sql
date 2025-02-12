@@ -1,0 +1,1 @@
+ALTER TABLE employees ADD COLUMN annual_bonus DECIMAL(10,2) DEFAULT 0.00;
