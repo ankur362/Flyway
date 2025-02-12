@@ -1,0 +1,2 @@
+ALTER TABLE employees ADD COLUMN employment_status ENUM('ACTIVE', 'INACTIVE', 'TERMINATED') DEFAULT 'ACTIVE';
+
